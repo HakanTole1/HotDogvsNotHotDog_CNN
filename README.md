@@ -33,5 +33,10 @@ To test this project in your browser without needing to install anything locally
 3. Once Google Colab opens, navigate to the top menu and select **Runtime > Change runtime type**, then set the Hardware accelerator to **T4 GPU**.
 4. Run all the cells sequentially (Shift + Enter) to train the model from scratch or inspect the results.
 
+## 📚 References / Acknowledgements
+
+* This project was heavily inspired by and built following the excellent tutorial: **"Hot Dog or Not Hot Dog – Convolutional Neural Network Course for Beginners"** by *freeCodeCamp.org*.
+* Watch the full tutorial on YouTube: [https://www.youtube.com/watch?v=nVhau51w6dM](https://www.youtube.com/watch?v=nVhau51w6dM)
+
 ---
 *This project was developed as a first step into the world of Deep Learning and CNNs.*
